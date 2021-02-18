@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lagou-user-api" />
+        <module name="lagou-cloud-configserver-9006" />
+        <module name="lagou-user-service" />
+        <module name="lagou-email-service" />
+        <module name="lagou-cloud-eureka-server" />
+        <module name="lagou-email-api" />
+        <module name="lagou-code-api" />
+        <module name="lagou-code-service" />
+        <module name="lagou-cloud-gateway-9002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lagou-cloud-configserver-9006" target="11" />
+      <module name="lagou-cloud-eureka-server" target="11" />
+      <module name="lagou-cloud-gateway-9002" target="11" />
+      <module name="lagou-code-api" target="11" />
+      <module name="lagou-code-service" target="11" />
+      <module name="lagou-email-api" target="11" />
+      <module name="lagou-email-service" target="11" />
+      <module name="lagou-parent" target="11" />
+      <module name="lagou-service-autodeliver-8090" target="11" />
+      <module name="lagou-service-autodeliver-8091" target="11" />
+      <module name="lagou-service-autodeliver-8096" target="11" />
+      <module name="lagou-service-code" target="11" />
+      <module name="lagou-service-email" target="11" />
+      <module name="lagou-service-resume-8081" target="11" />
+      <module name="lagou-service-user" target="11" />
+      <module name="lagou-user-api" target="11" />
+      <module name="lagou-user-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lagou-cloud-configserver-9006" options="-parameters" />
+      <module name="lagou-cloud-eureka-server" options="-parameters" />
+      <module name="lagou-cloud-gateway-9002" options="-parameters" />
+      <module name="lagou-code-api" options="-parameters" />
+      <module name="lagou-code-service" options="-parameters" />
+      <module name="lagou-email-api" options="-parameters" />
+      <module name="lagou-email-service" options="-parameters" />
+      <module name="lagou-service-autodeliver-8090" options="-parameters" />
+      <module name="lagou-service-autodeliver-8091" options="-parameters" />
+      <module name="lagou-service-autodeliver-8096" options="-parameters" />
+      <module name="lagou-service-resume-8081" options="-parameters" />
+      <module name="lagou-service-user" options="" />
+      <module name="lagou-user-api" options="-parameters" />
+      <module name="lagou-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

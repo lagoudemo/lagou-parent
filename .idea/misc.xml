@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-gateway-9002/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-email/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8090/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8091/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-common/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8081/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

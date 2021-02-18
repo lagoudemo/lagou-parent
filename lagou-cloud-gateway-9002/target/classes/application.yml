@@ -1,0 +1,22 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: service-user-router
+          uri: lb://lagou-service-user
+          predicates:
+            - Path=/api/user/**
+          filters:
+            - StripPrefix=1
+        - id: service-code-router
+          uri: lb://lagou-service-code
+          predicates:
+            - Path=/api/code/**
+          filters:
+            - StripPrefix=1
+        - id: service-code-email
+          uri: lb://lagou-service-email
+          predicates:
+            - Path=/api/email/**
+          filters:
+            - StripPrefix=1

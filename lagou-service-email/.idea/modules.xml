@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagou-email-api/lagou-email-api.iml" filepath="$PROJECT_DIR$/lagou-email-api/lagou-email-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-email-service/lagou-email-service.iml" filepath="$PROJECT_DIR$/lagou-email-service/lagou-email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-email.iml" filepath="$PROJECT_DIR$/lagou-service-email.iml" />
+    </modules>
+  </component>
+</project>

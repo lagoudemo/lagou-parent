@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: lagou-cloud-eureka-server # 应用名称，应用名称会在Eureka中作为服务名称

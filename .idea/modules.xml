@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-configserver-9006/lagou-cloud-configserver-9006.iml" filepath="$PROJECT_DIR$/lagou-cloud-configserver-9006/lagou-cloud-configserver-9006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server/lagou-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server/lagou-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-gateway-9002/lagou-cloud-gateway-9002.iml" filepath="$PROJECT_DIR$/lagou-cloud-gateway-9002/lagou-cloud-gateway-9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-code/lagou-code-api/lagou-code-api.iml" filepath="$PROJECT_DIR$/lagou-service-code/lagou-code-api/lagou-code-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-code/lagou-code-service/lagou-code-service.iml" filepath="$PROJECT_DIR$/lagou-service-code/lagou-code-service/lagou-code-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-email/lagou-email-api/lagou-email-api.iml" filepath="$PROJECT_DIR$/lagou-service-email/lagou-email-api/lagou-email-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-email/lagou-email-service/lagou-email-service.iml" filepath="$PROJECT_DIR$/lagou-service-email/lagou-email-service/lagou-email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-parent.iml" filepath="$PROJECT_DIR$/lagou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-code/lagou-service-code.iml" filepath="$PROJECT_DIR$/lagou-service-code/lagou-service-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-email/lagou-service-email.iml" filepath="$PROJECT_DIR$/lagou-service-email/lagou-service-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-user/lagou-service-user.iml" filepath="$PROJECT_DIR$/lagou-service-user/lagou-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-user/lagou-user-api/lagou-user-api.iml" filepath="$PROJECT_DIR$/lagou-service-user/lagou-user-api/lagou-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-user/lagou-user-service/lagou-user-service.iml" filepath="$PROJECT_DIR$/lagou-service-user/lagou-user-service/lagou-user-service.iml" />
+    </modules>
+  </component>
+</project>
